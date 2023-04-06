@@ -14,7 +14,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             bool heshedsalot = true;
 
-            double weight = 8;
+            double weight = 7;
 
             decimal length = 2.6m;
 
